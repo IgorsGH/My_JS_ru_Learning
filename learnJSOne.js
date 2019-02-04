@@ -1,5 +1,6 @@
 "use strict";
 
+let tste = "sadasda";
 
 [1,2].forEach(alert);
 
